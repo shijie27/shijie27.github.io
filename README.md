@@ -14,17 +14,17 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Co
 
 ## Features
 
-* Component library for website building
-* Fully configurable Website
-* Pre-built pages
-* Pre-styled components
-* Blog
-* Category pages
-* Testimonials
-* Portfolio
-* Live editing with [CloudCannon](http://cloudcannon.com/)
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* Search engine optimisation
+- Component library for website building
+- Fully configurable Website
+- Pre-built pages
+- Pre-styled components
+- Blog
+- Category pages
+- Testimonials
+- Portfolio
+- Live editing with [CloudCannon](http://cloudcannon.com/)
+- Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+- Search engine optimisation
 
 ## Develop
 
@@ -32,18 +32,20 @@ Vonge was built with [Jekyll](http://jekyllrb.com/) version 4.2.0, but should su
 
 Install the dependencies for Bookshop:
 
-~~~bash
+```bash
 $ npm install
-~~~
+```
 
 Install the Jekyll dependencies with [Bundler](http://bundler.io/):
 
-~~~bash
+```bash
 $ npm run install-jekyll
-~~~
+```
 
 Run the website:
 
-~~~bash
+```bash
 $ npm start
-~~~
+```
+
+test
